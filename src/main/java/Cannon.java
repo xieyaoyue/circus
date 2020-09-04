@@ -6,6 +6,6 @@ public class Cannon extends Equipment {
 
     @Override
     public int getValue() {
-        return purchasePrice / 3;
+        return purchasePrice / 2;
     }
 }
