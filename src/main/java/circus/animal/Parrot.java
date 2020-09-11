@@ -1,8 +1,4 @@
-<<<<<<< HEAD:src/main/java/circus/Parrot.java
-package circus;
-=======
 package circus.animal;
->>>>>>> improved:src/main/java/circus/animal/Parrot.java
 
 public class Parrot extends Bird {
     @Override

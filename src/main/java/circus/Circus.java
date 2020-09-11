@@ -1,8 +1,3 @@
-<<<<<<< HEAD:src/main/java/Circus.java
-import circus.Animal;
-import circus.Duck;
-import circus.Parrot;
-=======
 package circus;
 
 import circus.animal.Animal;
@@ -11,7 +6,6 @@ import circus.animal.Parrot;
 import circus.stuff.Cannon;
 import circus.stuff.Equipment;
 import circus.stuff.Ladder;
->>>>>>> improved:src/main/java/circus/Circus.java
 
 public class Circus {
     private static Animal[] animals = {
